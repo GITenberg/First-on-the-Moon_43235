@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '42085'
     url: http://www.gutenberg.org/2009/agents/42085
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43235#First-on-the-Moon
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2013-07-17'
 gutenberg_type: Text
